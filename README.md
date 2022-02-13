@@ -1,2 +1,4 @@
 # Lab01-IntroAGit
-Laboratorio #1 para la clase "Ciencia de datos en Python" 
+## Ciencia de Datos en Python - Ciclo I 2022
+### Alejandro Chacón
+### Carné: 21000766
