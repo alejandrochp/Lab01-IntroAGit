@@ -44,3 +44,19 @@ Se pueden identificar principales diferencias entre git y GitHub:
 - git es un software de VCS local que permite a los desarrolladores guardar instantáneas de sus proyectos a lo largo del tiempo. Generalmente es mejor para uso individual.
 - GitHub es una plataforma basada en la web que incorpora las características de control de versiones de git para que puedan ser utilizadas de forma colaborativa. También incluye características de gestión de proyectos y equipos, así como oportunidades para la creación de redes y la codificación social.
 
+## ¿Cómo crear un repositorio en GitHub?
+
+1. Se debe hacer es crear una cuenta de usuario en https://github.com/
+2. Configurar las variables globales de git en local, como nombre de usuario.
+  - $ git config --global user.name "tu_usuario"
+  - $ git config --global user.email @email.com
+3. Desde la barra de navegación hacer click en enlace “New repository”
+
+![image](https://user-images.githubusercontent.com/99599847/156967195-93b07754-4367-4fdf-9bc9-0bbeff9f9668.png)
+
+4. Se abrirá una venta para especificar los detalles del proyecto. Es recomendable incluir el archivo readme.md desde un principio para colocar allí las instruciones de instalación y/o uso de la información allí contenida. También se puede colocar información de licencia y sugerencias adicionales. 
+
+![image](https://user-images.githubusercontent.com/99599847/156967347-c27b5317-5eb8-4af3-ba8c-0af1407a1ff3.png)
+
+
+
